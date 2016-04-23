@@ -1,0 +1,3 @@
+info:
+  description: SSO OAuth2 Server
+server.port: 8080
